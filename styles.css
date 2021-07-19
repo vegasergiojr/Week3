@@ -1,0 +1,50 @@
+body {
+    background-image: url("maxresdefault.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box1 {
+    width: auto;
+    height: auto;
+    padding: 35px;
+    font-size: 18px;
+    border-radius: 15px;
+    margin-left: 200px;
+    margin-top: 200px;
+
+}
+
+body > div > div > ul > ul > a > li {
+    list-style: none;
+    color:white;
+    font-weight: bold;
+}
+
+body > div > div > ul > li {
+    list-style: none;
+    font-size: 28px;
+    color:cyan;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.quick-summary {
+    column-count: 2;
+    width: auto;
+    height: auto;
+    padding: 35px;
+    font-size: 14px;
+    border-radius: 15px;
+    margin-left:200px;
+    margin-top: 0px;
+}
+
+.video {
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.video > iframe{
+    border-style: double;
+    border-width: 10px;
+}
